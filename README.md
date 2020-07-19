@@ -1,1 +1,1 @@
-# food_quiz.question
+# food_quiz/question
